@@ -2,7 +2,8 @@
 Python, SQLAlchemy ORM queries, Pandas, and Matplotlib
 
 
-nstructions
+Instructions
+
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii. To help with your trip planning, you decide to do a climate analysis about the area. The following sections outline the steps that you need to take to accomplish this task.
 
 Part 1: Analyze and Explore the Climate Data
@@ -16,8 +17,7 @@ Use the SQLAlchemy automap_base() function to reflect your tables into classes, 
 
 Link Python to the database by creating a SQLAlchemy session.
 
-IMPORTANT
-Remember to close your session at the end of your notebook.
+IMPORTANT: Remember to close your session at the end of your notebook.
 
 Perform a precipitation analysis and then a station analysis by completing the steps in the following two subsections.
 
