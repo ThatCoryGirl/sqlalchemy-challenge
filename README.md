@@ -112,3 +112,5 @@ Menne, M.J., I. Durre, R.S. Vose, B.E. Gleason, and T.G. Houston, 2012: An overv
 
 Instructor: [Othmane Benyoucef](https://www.linkedin.com/in/othmane-benyoucef-219a8637/)
 
+Axis formatting [MatPlotLib.org](https://matplotlib.org/3.2.2/api/_as_gen/matplotlib.axis.XAxis.set_major_formatter.html)
+
